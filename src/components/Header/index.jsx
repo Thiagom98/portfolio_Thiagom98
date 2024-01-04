@@ -4,7 +4,7 @@ import { HeaderContainer, LeftDiv, RightDiv, Icon } from "../../styles/header"
 
 export const Header = () => {
     const abrirWhats = () => {
-        window.open('https://wa.me/55988798161"', '_blank');
+        window.open('https://wa.me/55988798161', '_blank');
     };
     const abrirGit = () => {
         window.open('https://github.com/Thiagom98', '_blank');
